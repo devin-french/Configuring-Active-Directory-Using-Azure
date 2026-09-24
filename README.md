@@ -1,15 +1,19 @@
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<<img width="2880" height="1799" alt="Rippling_Blog_Hero_IAMRelaunch_2025_" src="https://github.com/user-attachments/assets/78d315b6-4227-4ef6-a58d-9f4abf33b901" />
+
 </p>
 
-<h1>Active Directory Configurations in Azure</h1>
-This lab is a follow up to the lab where I installed Active Directory and created a domain controller. I will now be configuring Active Directory and allowing a client to join the domain as well as creating user accounts. <br />
+<h1>Creating a new user and assigning permissions</h1>
+(following up on the network file share lab)In this IAM lab I’m going to  demonstrate  a step by step process of creating a user, configuring permissions based on job responsibilities, implementing security group management, assigning group memberships, and role-based access control (RBAC) Using Active Directory.
+ <br />
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
+- Group Policy
+- Active Directory Users And Computers (ADUC)
 
 <h2>Operating Systems Used </h2>
 
@@ -17,7 +21,6 @@ This lab is a follow up to the lab where I installed Active Directory and create
 - Windows 10 Pro (21H2)
 
 <h2>Configuration Steps</h2>
-
 
 <img width="1280" alt="Screenshot 2025-01-22 at 2 55 49 PM" src="https://github.com/user-attachments/assets/db6dfae8-a64e-4ae9-ba70-c994beed9454" />
 <img width="1280" alt="Screenshot 2025-01-22 at 2 56 21 PM" src="https://github.com/user-attachments/assets/f648a754-ba92-41b9-aafe-12bd01303718" />
