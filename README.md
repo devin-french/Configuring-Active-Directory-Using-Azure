@@ -43,6 +43,8 @@ Now that the user/employee is created im going to assign permissions
 1. Using Claye Martin’s username (cmart), log into the client vm and Observe that you do not have access to certain folders  
 <img width="1025" height="678" alt="Decument" src="https://github.com/user-attachments/assets/2ed396a4-8c39-4870-9499-7b4c46507268" />
 
+
+<img width="840" height="543" alt="Screenshot 2026-09-18 at 2 33 19 AM" src="https://github.com/user-attachments/assets/47d3d96a-9947-4ab5-a64d-849ee55998d7" />
 1. Log out of Client-1 as  cmart 
 2. Go back to ADUC > right click  employees> Find> Claye Martin> Right click the name  > then Properties to add groups, contact info, etc.
 <img width="1920" height="1080" alt="Screenshot 2026-09-24 at 9 30 15 AM" src="https://github.com/user-attachments/assets/074207e6-acf7-4fd2-9d2a-ac404df06225" />
